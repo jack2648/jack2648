@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Jack (@jack2648)
 
-<!--
-**jack2648/jack2648** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software dev based in Munich. Most of my time goes into backend plumbing, CLI tooling, and upstream open-source patches.
 
-Here are some ideas to get you started:
+#### What I'm working on
+- Building distributed services in Go and data pipelines in Python
+- Maintaining small developer tools and Docker automation scripts
+- Digging deeper into Linux internals and container runtimes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech & Tools
+- **Languages:** Go, Python, JavaScript / TypeScript
+- **Infra & Ops:** Docker, Linux, PostgreSQL, GitHub Actions
+- **Environment:** Neovim on Arch
+
+#### Get in touch
+- Find me on GitHub discussions or reach out via email: jack2648.dev@proton.me
+- Always open to reviewing PRs or collaborating on interesting OSS projects.
